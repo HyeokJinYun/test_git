@@ -2,3 +2,5 @@ a 작성 1
 a 수정 1 from github
 a 수정 2 from github
 a 수정 3 from PC
+a 수정 3 from github
+a 병합 PC, github
